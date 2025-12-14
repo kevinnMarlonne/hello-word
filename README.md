@@ -1,2 +1,3 @@
-# hello-word
-Este repositório é para praticar o GitHub Flow
+Olá, me chamo Kevinn, sou iniciante no mundo da programação, neste momento que estou criando esse repositório, sou apenas um entusiasta no mundo da programação, estudo tudo pela internet como youtube e sites de terceiros, também estou iniciando um curso em análise e desenvolvimento de sistemas, pois meu foco é um dia ser engenheiro de software com especialização em IA.
+sei que é um caminho dificil, mas um dia quero viver de programação, pois o que mais quero é poder ter a liberdade geográfica que essa profissão pode me proporcionar e espero poder aprender muito com vocês que estão a mais tempo que eu por aqui.
+desde já quero agradecer a todos vocês por cada dica dada.
